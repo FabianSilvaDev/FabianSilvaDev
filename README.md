@@ -23,6 +23,11 @@ If you’re looking for a creative and dedicated collaborator, feel free to reac
 ![Laravel](https://img.shields.io/badge/laravel-%23F05340.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Webflow](https://img.shields.io/badge/webflow-%239B51E0.svg?style=for-the-badge&logo=webflow&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![CRUD](https://img.shields.io/badge/CRUD-%2300C2A0.svg?style=for-the-badge&logo=none&logoColor=white)&nbsp;
+
+
 
 ### 🗃 &nbsp;Databases
 
