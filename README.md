@@ -1,6 +1,6 @@
 <h1>Hi! 🌟 I'm  Fabian Silva | Web Developer Full Stack 🚀 |</h1>
 
-<img src="[https://drive.google.com/drive/my-drive](https://drive.google.com/file/d/1IPlM9iha6DHeKQ8v1AacoZa1z3obLF7g/view)" > 
+<img src="https://drive.google.com/file/d/1IPlM9iha6DHeKQ8v1AacoZa1z3obLF7g/view" > 
 
 I’m a passionate web developer 👨‍💻 with experience in full-stack development 💡. My focus is on building web applications 🚀 that are efficient, scalable, and provide value to users. My goal is to deliver tech products that not only meet functional requirements ✅ but also enhance the user experience and optimize processes 🔧.
 
