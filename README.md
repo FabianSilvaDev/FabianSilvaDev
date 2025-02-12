@@ -1,5 +1,7 @@
 <h1>Hi! 🌟 I'm  Fabian Silva | Web Developer Full Stack 🚀 |</h1>
 
+<img src="./editablelandinghithub.webp" alt="Editable Landing Hub" style="display: block; margin-left: auto; margin-right: auto;">
+
 I’m a passionate web developer 👨‍💻 with experience in full-stack development 💡. My focus is on building web applications 🚀 that are efficient, scalable, and provide value to users. My goal is to deliver tech products that not only meet functional requirements ✅ but also enhance the user experience and optimize processes 🔧.
 
 My stack includes technologies such as JavaScript 🖥️, React ⚛️, Node.js 🧑‍💻, and databases 🗄️, which allows me to work across both front-end and back-end on scalable and efficient projects. I’m always eager to stay up to date with the latest trends and apply best practices in agile development 📈.
