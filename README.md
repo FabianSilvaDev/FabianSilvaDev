@@ -18,6 +18,7 @@ If you’re looking for a creative and dedicated collaborator, feel free to reac
 ### 🛠 &nbsp;Tech Stack
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-%2314B8A6.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -35,6 +36,7 @@ If you’re looking for a creative and dedicated collaborator, feel free to reac
 ### 🗃 &nbsp;Databases
 
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23009e4f.svg?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
 
 ### 🧰 &nbsp;Version Controll & Tools 
@@ -47,3 +49,5 @@ If you’re looking for a creative and dedicated collaborator, feel free to reac
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![WordPress](https://img.shields.io/badge/WordPress-%232C3E50.svg?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 ![Elementor](https://img.shields.io/badge/Elementor-%232C3E50.svg?style=for-the-badge&logo=elementor&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+
