@@ -1,4 +1,4 @@
-<h1>Hi! 🌟 I'm  Fabian Silva | Web Developer Full Stack 🚀 |</h1>
+<h1>Hi! 🌟 I'm Fabian Silva | Web Developer Full Stack 🚀 |</h1>
 
 <img src="./portada git.webp" alt="Editable Landing Hub" style="display: block; margin-left: auto; margin-right: auto;">
 
@@ -31,7 +31,7 @@ If you’re looking for a creative and dedicated collaborator, feel free to reac
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![CRUD](https://img.shields.io/badge/CRUD-%2300C2A0.svg?style=for-the-badge&logo=none&logoColor=white)&nbsp;
 ![WSL](https://img.shields.io/badge/WSL-%23777BB4.svg?style=for-the-badge&logo=windows-subsystem-for-linux&logoColor=white)&nbsp;
-
+![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 
 ### 🗃 &nbsp;Databases
 
@@ -50,4 +50,5 @@ If you’re looking for a creative and dedicated collaborator, feel free to reac
 ![WordPress](https://img.shields.io/badge/WordPress-%232C3E50.svg?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 ![Elementor](https://img.shields.io/badge/Elementor-%232C3E50.svg?style=for-the-badge&logo=elementor&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+
 
